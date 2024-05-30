@@ -3,7 +3,7 @@
   "version": "8.5.1.0",
   "slug": "lms",
   "description": "LMS Lyrion Music Server, Formerly the Logitech Media Server, SqueezeBox Server & UPNP Music Server",
-  "url": "https://github.com/PfeifferchsForks/ha-addon-lms/",
+  "url": "http://github.com/PfeifferchsForks/ha-addon-lms/",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "services",
   "audio": true,
